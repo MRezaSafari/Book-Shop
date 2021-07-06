@@ -1,0 +1,24 @@
+.MenuContainer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 15px;
+}
+
+.Menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.Menu li {
+  margin-left: 20px;
+}
+
+.Menu a{
+    color: rgb(34, 34, 34);
+}
+
+.Menu ion-icon {
+  font-size: 25px;
+}

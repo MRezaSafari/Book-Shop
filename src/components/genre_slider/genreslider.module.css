@@ -1,0 +1,131 @@
+.Container {
+  margin: 10% 0 10% 0;
+}
+.Container:last-of-type {
+  margin-bottom: 5%;
+}
+
+.Header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: relative;
+}
+.Header::before {
+  content: attr(data-genre);
+  position: absolute;
+  left: 40px;
+  top: 25px;
+  font-size: 14em;
+  line-height: 0;
+  color: #b1b1b11e;
+  font-weight: bold;
+  z-index: 0;
+}
+
+.Title {
+  font-weight: bold;
+  font-size: 2em;
+  color: rgb(66, 66, 66);
+}
+
+.ShowAllBtn {
+  padding: 10px 20px;
+  display: inline-block;
+  background-color: white;
+  box-shadow: 5px 6px 10px rgba(66, 66, 66, 0.1);
+  color: rgb(56, 56, 56);
+  transition: all ease 400ms;
+}
+
+.ShowAllBtn:hover {
+  box-shadow: 0px 0px 10px rgba(66, 66, 66, 0.1);
+}
+
+.List {
+  margin-top: 30px;
+  position: relative;
+}
+
+.List::after {
+  content: "";
+  position: absolute;
+  background: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0)
+  );
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 65%;
+  z-index: 8;
+}
+
+.List::before {
+  content: "";
+  position: absolute;
+  background: linear-gradient(
+    to left,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0)
+  );
+  top: 0;
+  right: 0;
+  width: 100px;
+  height: 65%;
+  z-index: 8;
+}
+
+.SlideContainer img {
+  width: 100%;
+}
+
+.InfoContainer {
+  height: 150px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.BookTitle {
+  font-weight: bold;
+  color: rgb(78, 78, 78);
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+.Author {
+  color: rgb(110, 110, 110);
+  font-size: 13px;
+}
+
+.Price {
+  color: #d0a767;
+  font-weight: bold;
+}
+
+.Navigator {
+  width: 50px;
+  height: 50px;
+  background-color: rgba(0, 0, 0, 0.842);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  color: white;
+  font-size: 30px;
+  position: absolute;
+  z-index: 10;
+  cursor: pointer;
+}
+
+.NavigatePrev {
+  right: -25px;
+  top: 25%;
+}
+
+.NavigateNext {
+  left: -25px;
+  top: 25%;
+}

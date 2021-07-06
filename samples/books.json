@@ -1,0 +1,471 @@
+[{
+  "_id": {
+    "$oid": "60dca4c6013437343c6d3793"
+  },
+  "characters": [
+    "Pi Patel",
+    "Richard Parker",
+    "Orange Juice"
+  ],
+  "title": "Life of Pi",
+  "author": {
+    "$oid": "60dca2e320f3754c38a46341"
+  },
+  "description": "Life of Pi is a fantasy adventure novel by Yann Martel published in 2001. The protagonist, Piscine Molitor \"Pi\" Patel, a Tamil boy from Pondicherry, explores issues of spirituality and practicality from an early age. He survives 227 days after a shipwreck while stranded on a boat in the Pacific Ocean with a Bengal tiger named Richard Parker.",
+  "isbn": "0770430074",
+  "rating": 3.92,
+  "language": "English",
+  "publisher": "Seal Books",
+  "publishedOn": {
+    "$date": "2001-11-11T00:00:00Z"
+  },
+  "createdAt": {
+    "$date": "2021-06-30T17:07:18.747Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-30T17:07:18.747Z"
+  },
+  "__v": 0,
+  "genre": "Fictions",
+  "price": 42
+},{
+  "_id": {
+    "$oid": "60dca55b3d9d223598aa1275"
+  },
+  "characters": [
+    "Beatrice",
+    "Virgil",
+    "Henry",
+    "Sarah"
+  ],
+  "title": "Beatrice and Virgil",
+  "author": {
+    "$oid": "60dca2e320f3754c38a46341"
+  },
+  "description": "This is the story of a donkey named Beatrice and a monkey named Virgil. It is also the story of an extraordinary journey undertaken by a man named Henry. It begins with a mysterious parcel, and it ends in a place that will make you think again about one of the most significant events of the twentieth century. Once you have finished reading it, it is impossible to forget.",
+  "isbn": "1400069262",
+  "rating": 3.17,
+  "language": "English",
+  "publisher": "Spiegel & Grau",
+  "publishedOn": {
+    "$date": "2010-04-13T00:00:00Z"
+  },
+  "createdAt": {
+    "$date": "2021-06-30T17:09:47.059Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-30T17:09:47.059Z"
+  },
+  "__v": 0,
+  "genre": "Fictions",
+  "price": 33.5
+},{
+  "_id": {
+    "$oid": "60dca5d0cfcc64514cb3d2ed"
+  },
+  "characters": [],
+  "title": "101 Letters to a Prime Minister: The Complete Letters to Stephen Harper",
+  "author": {
+    "$oid": "60dca2e320f3754c38a46341"
+  },
+  "description": "From the mailbox of the Prime Minister's Office to your bookshelf, a list of more than 100 books that every Canadian should read. This largely one-sided correspondence from the \"loneliest book club in the world\" is a compendium for bibliophiles and those who follow the Canadian political scene. Smart, subversive, signed, sealed, and now available to you...even if your address is not 80 Wellington Street.",
+  "isbn": "030740207X",
+  "rating": 3.71,
+  "language": "English",
+  "publisher": "Vintage Canada",
+  "publishedOn": {
+    "$date": "2011-01-01T00:00:00Z"
+  },
+  "createdAt": {
+    "$date": "2021-06-30T17:11:44.923Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-30T17:11:44.923Z"
+  },
+  "__v": 0,
+  "genre": "Fictions",
+  "price": 15.99
+},{
+  "_id": {
+    "$oid": "60dca720107ecb3748c1f6f6"
+  },
+  "characters": [
+    "Scout Finch",
+    "Atticus Finch",
+    "Jem Finch",
+    "Arthur Radley",
+    "Mayella Ewell",
+    "Aunt Alexandra",
+    "Bob Ewell",
+    "Calpurnia",
+    "Tom Robinson",
+    "Miss Maudie Atkinson",
+    "Judge John Taylor",
+    "Dill Harris",
+    "Heck Tate",
+    "Stephanie Crawford"
+  ],
+  "title": "To Kill a Mockingbird",
+  "author": {
+    "$oid": "60dca23e61afd8074018ab02"
+  },
+  "description": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it. \"To Kill A Mockingbird\" became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.\n\n      Compassionate, dramatic, and deeply moving, \"To Kill A Mockingbird\" takes readers to the roots of human behavior - to innocence and experience, kindness and cruelty, love and hatred, humor and pathos. Now with over 18 million copies in print and translated into forty languages, this regional story by a young Alabama woman claims universal appeal. Harper Lee always considered her book to be a simple love story. Today it is regarded as a masterpiece of American literature.",
+  "isbn": "153840207Y",
+  "rating": 4.28,
+  "language": "English",
+  "publisher": "Harper Perennial Modern Classics",
+  "publishedOn": {
+    "$date": {
+      "$numberLong": "-299030400000"
+    }
+  },
+  "createdAt": {
+    "$date": "2021-06-30T17:17:20.744Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-30T17:17:20.744Z"
+  },
+  "__v": 0,
+  "genre": "Classics",
+  "price": 59.99
+},{
+  "_id": {
+    "$oid": "60dca7d92b0b723d70c9b4e7"
+  },
+  "characters": [
+    "Scout Finch",
+    "Atticus Finch",
+    "Aunt Alexandra",
+    "Henry (Hank) Clinton",
+    "Jack Finch"
+  ],
+  "title": "Go Set a Watchman",
+  "author": {
+    "$oid": "60dca23e61afd8074018ab02"
+  },
+  "description": "From Harper Lee comes a landmark new novel set two decades after her beloved Pulitzer Prize-winning masterpiece, To Kill a Mockingbird. Maycomb, Alabama. Twenty-six-year-old Jean Louise Finch—\"Scout\"—returns home from New York City to visit her aging father, Atticus. Set against the backdrop of the civil rights tensions and political turmoil that were transforming the South, Jean Louise's homecoming turns bittersweet when she learns disturbing truths about her close-knit family, the town and the people dearest to her. Memories from her childhood flood back, and her values and assumptions are thrown into doubt. Featuring many of the iconic characters from To Kill a Mockingbird, Go Set a Watchman perfectly captures a young woman, and a world, in a painful yet necessary transition out of the illusions of the past—a journey that can be guided only by one's conscience. Written in the mid-1950s, Go Set a Watchman imparts a fuller, richer understanding and appreciation of Harper Lee. Here is an unforgettable novel of wisdom, humanity, passion, humor and effortless precision—a profoundly affecting work of art that is both wonderfully evocative of another era and relevant to our own times. It not only confirms the enduring brilliance of To Kill a Mockingbird, but also serves as its essential companion, adding depth, context and new meaning to an American classic.",
+  "isbn": "0062409859",
+  "rating": 3.32,
+  "language": "English",
+  "publisher": "HarperCollins",
+  "publishedOn": {
+    "$date": "2015-07-14T00:00:00Z"
+  },
+  "createdAt": {
+    "$date": "2021-06-30T17:20:25.426Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-30T17:20:25.426Z"
+  },
+  "__v": 0,
+  "genre": "Fictions",
+  "price": 33
+},{
+  "_id": {
+    "$oid": "60dca889b7c37320c48cbae4"
+  },
+  "characters": [],
+  "title": "Self",
+  "author": {
+    "$oid": "60dca2e320f3754c38a46341"
+  },
+  "description": "Edgy, funny and devastating, Self is the fictional autobiography of a young writer at the heart of which is a startling twist. This extraordinary life meanders through a rich, complicated, bittersweet world. The discoveries of childhood give way to the thousand pangs of adolescence, culminating in the sudden shocking news of an accident abroad. And as adulthood begins, indecisively, boundaries are crossed between countries, languages and people",
+  "isbn": "0571219764",
+  "rating": 3.44,
+  "language": "English",
+  "publisher": "Faber Faber",
+  "publishedOn": {
+    "$date": "1996-06-25T00:00:00Z"
+  },
+  "createdAt": {
+    "$date": "2021-06-30T17:23:21.234Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-30T17:23:21.234Z"
+  },
+  "__v": 0,
+  "genre": "Fictions",
+  "price": 17.5
+},{
+  "_id": {
+    "$oid": "60e2d9f12eff4c1f88d9293c"
+  },
+  "characters": [],
+  "title": "The Seven Husbands of Evelyn Hugo",
+  "author": {
+    "$oid": "60e2d92bcbb7b22ce41aaddb"
+  },
+  "description": "Aging and reclusive Hollywood movie icon Evelyn Hugo is finally ready to tell the truth about her glamorous and scandalous life. But when she chooses unknown magazine reporter Monique Grant for the job, no one is more astounded than Monique herself. Why her? Why now?\n\n      Monique is not exactly on top of the world. Her husband has left her, and her professional life is going nowhere. Regardless of why Evelyn has selected her to write her biography, Monique is determined to use this opportunity to jumpstart her career.\n      \n      Summoned to Evelyn’s luxurious apartment, Monique listens in fascination as the actress tells her story. From making her way to Los Angeles in the 1950s to her decision to leave show business in the ‘80s, and, of course, the seven husbands along the way, Evelyn unspools a tale of ruthless ambition, unexpected friendship, and a great forbidden love. Monique begins to feel a very real connection to the legendary star, but as Evelyn’s story near its conclusion, it becomes clear that her life intersects with Monique’s own in tragic and irreversible ways.",
+  "isbn": "1501139231",
+  "rating": 4.41,
+  "language": "English",
+  "publisher": "Atria Books",
+  "genre": "Fictions",
+  "publishedOn": {
+    "$date": "2017-03-13T00:00:00Z"
+  },
+  "createdAt": {
+    "$date": "2021-07-05T10:07:45.881Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T10:07:45.881Z"
+  },
+  "__v": 0,
+  "price": 19
+},{
+  "_id": {
+    "$oid": "60e2dab3684a2c31cca77dfb"
+  },
+  "characters": [
+    "Warren Raymond",
+    "Billy Dunne",
+    "Daisy Jones",
+    "Simone Jackson",
+    "Graham Dunne",
+    "Camila Dunne",
+    "Eddie Loving",
+    "Karen Karen",
+    "Teddy Price"
+  ],
+  "title": "Daisy Jones & The Six",
+  "author": {
+    "$oid": "60e2d92bcbb7b22ce41aaddb"
+  },
+  "description": "A gripping novel about the whirlwind rise of an iconic 1970s rock group and their beautiful lead singer, revealing the mystery behind their infamous break up.\n\n      Everyone knows Daisy Jones & The Six, but nobody knows the real reason why they split at the absolute height of their popularity…until now.\n      \n      Daisy is a girl coming of age in L.A. in the late sixties, sneaking into clubs on the Sunset Strip, sleeping with rock stars, and dreaming of singing at the Whisky a Go-Go. The sex and drugs are thrilling, but it’s the rock and roll she loves most. By the time she’s twenty, her voice is getting noticed, and she has the kind of heedless beauty that makes people do crazy things.\n      \n      Another band getting noticed is The Six, led by the brooding Billy Dunne. On the eve of their first tour, his girlfriend Camila finds out she’s pregnant, and with the pressure of impending fatherhood and fame, Billy goes a little wild on the road.\n      \n      Daisy and Billy cross paths when a producer realizes the key to supercharged success is to put the two together. What happens next will become the stuff of legend.",
+  "isbn": "1524798622",
+  "rating": 4.2,
+  "language": "English",
+  "publisher": "Ballantine Books",
+  "genre": "Fictions",
+  "publishedOn": {
+    "$date": "2019-04-05T00:00:00Z"
+  },
+  "createdAt": {
+    "$date": "2021-07-05T10:10:59.357Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T10:10:59.357Z"
+  },
+  "__v": 0,
+  "price": 42
+},{
+  "_id": {
+    "$oid": "60e2db3bf55f6319b40f094f"
+  },
+  "characters": [
+    "Hannah Martin",
+    "Gabby Hudson",
+    "Ethan Hanover",
+    "Mark",
+    "Carl Hudson",
+    "Tina Hudson",
+    "Henry",
+    "Charlemagne"
+  ],
+  "title": "Maybe in Another Life",
+  "author": {
+    "$oid": "60e2d92bcbb7b22ce41aaddb"
+  },
+  "description": "From the acclaimed author of Forever, Interrupted and After I Do comes a breathtaking new novel about a young woman whose fate hinges on the choice she makes after bumping into an old flame; in alternating chapters, we see two possible scenarios unfold—with stunningly different results.\n\n      At the age of twenty-nine, Hannah Martin still has no idea what she wants to do with her life. She has lived in six different cities and held countless meaningless jobs since graduating college. On the heels of leaving yet another city, Hannah moves back to her hometown of Los Angeles and takes up residence in her best friend Gabby’s guestroom. Shortly after getting back to town, Hannah goes out to a bar one night with Gabby and meets up with her high school boyfriend, Ethan.\n      \n      Just after midnight, Gabby asks Hannah if she’s ready to go. A moment later, Ethan offers to give her a ride later if she wants to stay. Hannah hesitates. What happens if she leaves with Gabby? What happens if she leaves with Ethan?\n      \n      In concurrent storylines, Hannah lives out the effects of each decision. Quickly, these parallel universes develop into radically different stories with large-scale consequences for Hannah, as well as the people around her. As the two alternate realities run their course, Maybe in Another Life raises questions about fate and true love: Is anything meant to be? How much in our life is determined by chance? And perhaps, most compellingly: Is there such a thing as a soul mate?\n      \n      Hannah believes there is. And, in both worlds, she believes she’s found him.",
+  "isbn": "1476776881",
+  "rating": 3.77,
+  "language": "English",
+  "publisher": "Washington Square Press",
+  "genre": "Fictions",
+  "publishedOn": {
+    "$date": "2015-02-07T00:00:00Z"
+  },
+  "createdAt": {
+    "$date": "2021-07-05T10:13:15.043Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T10:13:15.043Z"
+  },
+  "__v": 0,
+  "price": 29.99
+},{
+  "_id": {
+    "$oid": "60e2dcf18f7e761778e82fb0"
+  },
+  "characters": [
+    "Nick Carraway",
+    "Jay Gatsby",
+    "Daisy Buchanan",
+    "Tom Buchanan",
+    "Jordan Baker",
+    "Myrtle Wilson",
+    "Meyer Wolfsheim",
+    "George Wilson"
+  ],
+  "title": "The Great Gatsby",
+  "author": {
+    "$oid": "60e2dc75cbb7b22ce41aaddc"
+  },
+  "description": "The Great Gatsby, F. Scott Fitzgerald’s third book, stands as the supreme achievement of his career. First published in 1925, this quintessential novel of the Jazz Age has been acclaimed by generations of readers. The story of the mysteriously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted “gin was the national drink and sex the national obsession,” it is an exquisitely crafted tale of America in the 1920s.",
+  "isbn": "0743273567",
+  "rating": 3.8,
+  "language": "English",
+  "publisher": "Scribner",
+  "genre": "Classics",
+  "publishedOn": {
+    "$date": {
+      "$numberLong": "-1400976000000"
+    }
+  },
+  "createdAt": {
+    "$date": "2021-07-05T10:20:33.190Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T10:20:33.190Z"
+  },
+  "__v": 0,
+  "price": 67
+},{
+  "_id": {
+    "$oid": "60e2ddcba5883326e8cad324"
+  },
+  "characters": [
+    "Benjamin Button",
+    "Hildegarde Moncrief",
+    "General Moncrief",
+    "Roger Button"
+  ],
+  "title": "The Curious Case of Benjamin Button",
+  "author": {
+    "$oid": "60e2dc75cbb7b22ce41aaddc"
+  },
+  "description": "In 1860 Benjamin Button is born an old man and mysteriously begins aging backward. At the beginning of his life he is withered and worn, but as he continues to grow younger he embraces life -- he goes to war, runs a business, falls in love, has children, goes to college and prep school, and, as his mind begins to devolve, he attends kindergarten and eventually returns to the care of his nurse.\n\n      This strange and haunting story embodies the sharp social insight that has made Fitzgerald one of the great voices in the history of American literature.",
+  "isbn": "1416556052",
+  "rating": 3.56,
+  "language": "English",
+  "publisher": "Scribner",
+  "genre": "Classics",
+  "publishedOn": {
+    "$date": {
+      "$numberLong": "-1491523200000"
+    }
+  },
+  "createdAt": {
+    "$date": "2021-07-05T10:24:11.890Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T10:24:11.890Z"
+  },
+  "__v": 0,
+  "price": 29
+},{
+  "_id": {
+    "$oid": "60e2de43b6e99827e8821490"
+  },
+  "characters": [
+    "Amory Blaine",
+    "Isabelle Borgé",
+    "Rosalind Connage",
+    "Monsignor Thayer Darcy",
+    "Beatrice Blaine",
+    "Alec Connage",
+    "Clara Page",
+    "Tom D'Invilliers",
+    "Kerry Holiday",
+    "Burne Holiday",
+    "Eleanor Savage",
+    "Dick Humbird",
+    "Cecilia Connage",
+    "Myra St. Clare"
+  ],
+  "title": "This Side of Paradise",
+  "author": {
+    "$oid": "60e2dc75cbb7b22ce41aaddc"
+  },
+  "description": "This Side of Paradise, F. Scott Fitzgerald's romantic and witty first novel, was written when the author was only twenty-three years old. This semi-autobiographical story of the handsome, indulged, and idealistic Princeton student Amory Blaine received critical raves and catapulted Fitzgerald to instant fame. Now, readers can enjoy the newly edited, authorized version of this early classic of the Jazz Age, based on Fitzgerald's original manuscript. In this definitive text, This Side of Paradise captures the rhythms and romance of Fitzgerald's youth and offers a poignant portrait of the \"Lost Generation.\"",
+  "isbn": "0684843781",
+  "rating": 3.66,
+  "language": "English",
+  "publisher": "Scribner",
+  "genre": "Classics",
+  "publishedOn": {
+    "$date": {
+      "$numberLong": "-1573084800000"
+    }
+  },
+  "createdAt": {
+    "$date": "2021-07-05T10:26:11.909Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T10:26:11.909Z"
+  },
+  "__v": 0,
+  "price": 13.99
+},{
+  "_id": {
+    "$oid": "60e2deb586ef5e1e584a19cc"
+  },
+  "characters": [
+    "Dick Diver",
+    "Nicole Diver",
+    "Rosemary Hoyt",
+    "Elsie Speers",
+    "Abe North",
+    "Franz Gregorovius",
+    "Baby Warren",
+    "Tommy Barban",
+    "Mary North",
+    "Violet McKisco",
+    "Albert McKisco",
+    "Devereux Warren"
+  ],
+  "title": "Tender Is the Night",
+  "author": {
+    "$oid": "60e2dc75cbb7b22ce41aaddc"
+  },
+  "description": "Set on the French Riviera in the late 1920s, Tender Is the Night is the tragic romance of the young actress Rosemary Hoyt and the stylish American couple Dick and Nicole Diver. A brilliant young psychiatrist at the time of his marriage, Dick is both husband and doctor to Nicole, whose wealth goads him into a lifestyle not his own, and whose growing strength highlights Dick's harrowing demise. A profound study of the romantic concept of character, Tender Is the Night is lyrical, expansive, and hauntingly evocative.",
+  "isbn": "068480154X",
+  "rating": 3.81,
+  "language": "English",
+  "publisher": "Scribner",
+  "genre": "Classics",
+  "publishedOn": {
+    "$date": {
+      "$numberLong": "-1117756800000"
+    }
+  },
+  "createdAt": {
+    "$date": "2021-07-05T10:28:05.396Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T10:28:05.396Z"
+  },
+  "__v": 0,
+  "price": 12
+},{
+  "_id": {
+    "$oid": "60e2df340141a804dcd625e1"
+  },
+  "characters": [
+    "Anthony Patch",
+    "Gloria Gilbert"
+  ],
+  "title": "The Beautiful and Damned",
+  "author": {
+    "$oid": "60e2dc75cbb7b22ce41aaddc"
+  },
+  "description": "First published in 1922, The Beautiful and the Damned followed Fitzgerald's impeccable debut, This Side of Paradise, thus securing his place in the tradition of great American novelists. Embellished with the author's lyrical prose, here is the story of Harvard-educated, aspiring aesthete Anthony Patch and his beautiful wife, Gloria. As they await the inheritance of his grandfather's fortune, their reckless marriage sways under the influence of alcohol and avarice. A devastating look at the nouveau riche, and the New York nightlife, as well as the ruinous effects of wild ambition, The Beautiful and the Damned achieved stature as one of Fitzgerald's most accomplished novels. Its distinction as a classic endures to this day. Pocket Book's Enriched Classics present the great works of world literature enhanced for the contemporary reader. Special features include critical perspectives, suggestions for further read, and a unique visual essay composed of period photographs that help bring every word to life.",
+  "isbn": "0743451503",
+  "rating": 3.75,
+  "language": "English",
+  "publisher": "Simon & Schuster",
+  "genre": "Classics",
+  "publishedOn": {
+    "$date": {
+      "$numberLong": "-1504915200000"
+    }
+  },
+  "createdAt": {
+    "$date": "2021-07-05T10:30:12.174Z"
+  },
+  "updatedAt": {
+    "$date": "2021-07-05T10:30:12.174Z"
+  },
+  "__v": 0,
+  "price": 12
+}]

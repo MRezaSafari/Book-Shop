@@ -1,0 +1,89 @@
+[{
+  "_id": {
+    "$oid": "60dca23e61afd8074018ab02"
+  },
+  "fullname": "Harper Lee",
+  "biography": "Harper Lee, known as Nelle, was born in the Alabama town of Monroeville, the youngest of four children of Amasa Coleman Lee and Frances Cunningham Finch Lee. Her father, a former newspaper editor and proprietor, was a lawyer who served on the state legislature from 1926 to 1938. As a child, Lee was a tomboy and a precocious reader, and enjoyed the friendship of her schoolmate and neighbor, the young Truman Capote.\n\n      After graduating from high school in Monroeville, Lee enrolled at the all-female Huntingdon College in Montgomery (1944-45), and then pursued a law degree at the University of Alabama (1945-50), pledging the Chi Omega sorority. While there, she wrote for several student publications and spent a year as editor of the campus humor magazine, \"Ramma-Jamma\". Though she did not complete the law degree, she studied for a summer in Oxford, England, before moving to New York in 1950, where she worked as a reservation clerk with Eastern Air Lines and BOAC.\n      \n      Lee continued as a reservation clerk until the late 50s, when she devoted herself to writing. She lived a frugal life, traveling between her cold-water-only apartment in New York to her family home in Alabama to care for her father.\n      \n      Having written several long stories, Harper Lee located an agent in November 1956. The following month at the East 50th townhouse of her friends Michael Brown and Joy Williams Brown, she received a gift of a year's wages with a note: \"You have one year off from your job to write whatever you please. Merry Christmas.\"\n      \n      Within a year, she had a first draft. Working with J. B. Lippincott & Co. editor Tay Hohoff, she completed To Kill a Mockingbird in the summer of 1959. Published July 11, 1960, the novel was an immediate bestseller and won great critical acclaim, including the Pulitzer Prize for Fiction in 1961. It remains a bestseller with more than 30 million copies in print. In 1999, it was voted \"Best Novel of the Century\" in a poll by the Library Journal.",
+  "born_location": "Monroeville, Alabama, The United States",
+  "website": "http://www.harperlee.com",
+  "born_date": {
+    "$date": {
+      "$numberLong": "-1375768753518"
+    }
+  },
+  "death_date": {
+    "$date": "2016-03-19T17:56:30.482Z"
+  },
+  "createdAt": {
+    "$date": "2021-06-30T16:56:30.490Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-30T16:56:30.490Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60dca2e320f3754c38a46341"
+  },
+  "fullname": "Yann Martel",
+  "biography": "Yann Martel is the author of Life of Pi, the #1 international bestseller and winner of the 2002 Man Booker (among many other prizes). He is also the award-winning author of The Facts Behind the Helsinki Roccamatios (winner of the Journey Prize), Self, Beatrice & Virgil, and 101 Letters to a Prime Minister. Born in Spain in 1963, Martel studied philosophy at Trent University, worked at odd jobs—tree planter, dishwasher, security guard—and traveled widely before turning to writing. He lives in Saskatoon, Canada, with the writer Alice Kuipers and their four children.",
+  "born_location": "Salamanca, Spain",
+  "born_date": {
+    "$date": {
+      "$numberLong": "-203148044648"
+    }
+  },
+  "website": null,
+  "death_date": null,
+  "createdAt": {
+    "$date": "2021-06-30T16:59:15.360Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-30T16:59:15.360Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e2d92bcbb7b22ce41aaddb"
+  },
+  "fullname": "Taylor Jenkins Reidl",
+  "biography": "Taylor Jenkins Reid is the New York Times bestselling author of Malibu Rising, Daisy Jones & The Six, and The Seven Husbands of Evelyn Hugo, as well as four other novels. Her newest novel, Malibu Rising, is out now. She lives in Los Angeles.",
+  "born_location": "Eastern Shore of Maryland",
+  "born_date": {
+    "$date": "1983-07-20T17:59:15.352Z"
+  },
+  "website": "https://taylorjenkinsreid.com/",
+  "death_date": null,
+  "createdAt": {
+    "$date": "2021-06-30T16:59:15.360Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-30T16:59:15.360Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60e2dc75cbb7b22ce41aaddc"
+  },
+  "fullname": "F. Scott Fitzgerald",
+  "biography": "Francis Scott Key Fitzgerald was an American writer of novels and short stories, whose works have been seen as evocative of the Jazz Age, a term he himself allegedly coined. He is regarded as one of the greatest twentieth century writers. Fitzgerald was of the self-styled 'Lost Generation,' Americans born in the 1890s who came of age during World War I. He finished four novels, left a fifth unfinished, and wrote dozens of short stories that treat themes of youth, despair, and age. He was married to Zelda Fitzgerald.",
+  "born_location": "St. Paul, Minnesota, The United States",
+  "website": null,
+  "born_date": {
+    "$date": {
+      "$numberLong": "-2306815153518"
+    }
+  },
+  "death_date": {
+    "$date": {
+      "$numberLong": "-916034609518"
+    }
+  },
+  "createdAt": {
+    "$date": "2021-06-30T16:56:30.490Z"
+  },
+  "updatedAt": {
+    "$date": "2021-06-30T16:56:30.490Z"
+  },
+  "__v": 0
+}]

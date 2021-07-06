@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Vidaloka&display=swap');
+
+.Container {
+  margin: auto;
+  margin-top: 5%;
+  max-width: 800px;
+}
+
+.Text {
+  font-family: 'Vidaloka', serif;
+  font-size: 35px;
+  text-align: center;
+}
+
+.From {
+  font-family: "Cairo", sans-serif;
+  text-align: center;
+  margin-top: 15px;
+}

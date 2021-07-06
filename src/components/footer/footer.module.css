@@ -1,0 +1,10 @@
+.Container {
+  background-color: #d0a867ce;
+  padding: 30px 0;
+  font-size: 13px;
+}
+
+.Container > div {
+  display: flex;
+  justify-content: space-between;
+}

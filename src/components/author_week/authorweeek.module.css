@@ -1,0 +1,89 @@
+.Container {
+  padding: 100px 0;
+  display: flex;
+}
+
+/* Informations */
+.Information {
+  flex: 4;
+}
+
+.Title {
+  color: #d0a867d0;
+  letter-spacing: 1px;
+  font-weight: bold;
+  font-size: 18px;
+  position: relative;
+  margin-bottom: 50px;
+}
+
+.Title::after {
+  content: "";
+  position: absolute;
+  height: 1px;
+  width: 30px;
+  background-color: #d0a767;
+  bottom: -15px;
+  left: 0;
+}
+
+.Name {
+  font-weight: bold;
+  font-size: 2em;
+  color: rgb(59, 59, 59);
+  margin-bottom: 10px;
+}
+
+.BornLocation {
+  font-style: italic;
+  color: rgb(172, 172, 172);
+  margin-bottom: 30px;
+}
+
+.Biography {
+  color: rgb(80, 80, 80);
+  line-height: 25px;
+  text-align: justify;
+}
+
+/* Image */
+.Image {
+  flex: 3;
+  margin: 0 15px;
+  overflow: hidden;
+}
+
+.Image img {
+  width: 100%;
+  height: 100%;
+  transition: all ease 400ms;
+  will-change: transform;
+}
+
+.Image:hover img {
+  transform: scale(1.2) rotate(-3deg);
+}
+
+/* Author Books */
+.Books {
+  flex: 4;
+  display: flex;
+}
+
+.Books ul {
+  display: flex;
+  align-items: center;
+}
+
+.Books li {
+  margin: 0 5px;
+}
+
+.Books li a:hover img {
+  transform: scale(1.2);
+}
+
+.Books li img {
+  width: 100%;
+  transition: all ease 400ms;
+}
