@@ -1,5 +1,7 @@
 <h1 align="center">Simple Book Shop Website Using MERN Stack</h1>
 
+![Alt text](/samples/home.jpg)
+
 # :computer: Technologies
 
 This project was made using the follow technologies:
@@ -14,6 +16,12 @@ This project was made using the follow technologies:
 ```bash
 # Clone Repository
 $ git clone https://github.com/MRezaSafari/Book-Shop.git
+```
+
+### 📦 Database
+
+```bash
+# use json files in samples folder to create a database in mongoDB
 ```
 
 ### 📦 Run API
